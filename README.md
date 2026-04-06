@@ -22,3 +22,8 @@ A Python project that analyzes financial transactions, detects suspicious activi
 
 ```bash
 pip install pandas matplotlib
+
+
+Author : 
+Midhun Krishna
+GitHub: https://github.com/<your-username>/fraud-analyzer
